@@ -81,7 +81,7 @@ This project is **open-source** and available under the MIT License.
 ---
 
 ## ✨ Contributors  
-👤 **Your Name** – [GitHub Profile](https://github.com/Runal21/)  
+👤 **Runal Bhosale** – [GitHub Profile](https://github.com/Runal21/)  
 📩 Feel free to reach out for collaborations!
 
 ---
